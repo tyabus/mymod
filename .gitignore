@@ -1,0 +1,8 @@
+*.dll
+*.so
+*.o
+*.save
+*.bak
+*.user
+*.bak
+*.swp
